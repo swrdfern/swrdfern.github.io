@@ -3,9 +3,9 @@ layout: page
 title: Privacy Policy
 ---
 
-Last updated November 19, 2024
+Last updated November 20, 2024
 
-This Privacy Notice for Sword Fern Games LLC "**we**," "**us**," or "**our**", describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
+This Privacy Notice for Sword Fern Games LLC ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
 * Download and use our mobile application (Coral) or any other application of ours that links to this Privacy Notice
 * Engage with us in other related ways, including any sales, marketing, or events
@@ -123,7 +123,7 @@ We automatically collect certain information when you visit, use, or navigate th
 
 # 2. HOW DO WE PROCESS YOUR INFORMATION?
 
-***In Short: *** *We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.*
+***In Short:*** *We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.*
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
@@ -200,7 +200,7 @@ We have implemented measures to protect your personal information, including by 
 
 # 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-***In Short: *** *We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.*
+***In Short:*** *We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.*
 
 We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 13 months.
 
@@ -208,13 +208,13 @@ When we have no ongoing legitimate business need to process your personal inform
 
 # 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-***In Short: *** *We aim to protect your personal information through a system of organizational and technical security measures.*
+***In Short:*** *We aim to protect your personal information through a system of organizational and technical security measures.*
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
 # 8. DO WE COLLECT INFORMATION FROM MINORS?
 
-***In Short:*** * We do not knowingly collect data from or market to children under 18 years of age.*
+***In Short:*** *We do not knowingly collect data from or market to children under 18 years of age.*
 
 We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at [contact@swrdfern.net](mailto:contact@swrdfern.net).
 
@@ -245,7 +245,7 @@ California law requires us to let you know how we respond to web browser DNT sig
 
 # 11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-***In Short: *** *If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.*
+***In Short:*** *If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.*
 
 ## Categories of Personal Information We Collect
 
@@ -302,7 +302,7 @@ You have rights under certain US state data protection laws. However, these righ
 
 * **Right to know** whether or not we are processing your personal data
 * **Right to access** your personal data
-* **Right to correct ** inaccuracies in your personal data
+* **Right to correct** inaccuracies in your personal data
 * **Right to request** the deletion of your personal data
 * **Right to obtain a copy** of the personal data you previously shared with us
 * **Right to non-discrimination** for exercising your rights
@@ -365,7 +365,7 @@ Complaints (complete POPIA/PAIA form 5): [PAIAComplaints@inforegulator.org.za](
 
 # 13. DO WE MAKE UPDATES TO THIS NOTICE?
 
-***In Short: *** *Yes, we will update this notice as necessary to stay compliant with relevant laws.*
+***In Short:*** *Yes, we will update this notice as necessary to stay compliant with relevant laws.*
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
